@@ -1,3 +1,4 @@
+# A snake game  //// enjoy it <3
 import random
 import curses
 
